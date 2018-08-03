@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1533266948 source:/home/john/SDL/SDL_test1/01_hello_SDL.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	"Texture.h"
+
+1533166343 /home/john/SDL/SDL_test1/include/Texture.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+
+1533263500 source:/home/john/SDL/SDL_test1/src/Texture.cpp
+	"Texture.h"
+
